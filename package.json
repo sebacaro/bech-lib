@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node-sass sass/_buttons.scss -o css"
+    "dev": "node-sass sass/index.scss --watch --output css"
   },
   "author": "",
   "license": "ISC",
